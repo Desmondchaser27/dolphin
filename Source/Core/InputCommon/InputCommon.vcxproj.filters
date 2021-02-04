@@ -141,6 +141,7 @@
     <ClCompile Include="ControllerInterface\Wiimote\Wiimote.cpp" />
     <ClCompile Include="ControllerEmu\ControlGroup\PrimeHackModes.cpp" />
     <ClCompile Include="GenericMouse.cpp" />
+    <ClCompile Include="ImageOperations.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GCAdapter.h" />
@@ -252,6 +253,7 @@
     <ClInclude Include="GenericMouse.h" />
     <ClInclude Include="ControllerInterface\Wiimote\Wiimote.h" />
     <ClInclude Include="ControllerEmu\ControlGroup\PrimeHackModes.h" />
+    <ClInclude Include="ImageOperations.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt" />
